@@ -1,2 +1,2 @@
-# CalculationPi
+# CalculatePi
 Just for fun
